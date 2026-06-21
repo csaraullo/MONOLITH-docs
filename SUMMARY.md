@@ -1,27 +1,37 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Introduzione](introduzione.md)
+
+## Cos'è MONOLITH
+* [Chi è per](cose-monolith/chi-e-per.md)
+* [Come funziona](cose-monolith/come-funziona.md)
 
 ## Getting Started
+* [Setup locale](getting-started/setup-locale.md)
+* [Primo boot](getting-started/primo-boot.md)
+* [Environment variables](getting-started/environment-variables.md)
 
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
+## Architettura
+* [Struttura codebase](architettura/struttura-codebase.md)
+* [Board system](architettura/board-system.md)
+* [Storage](architettura/storage.md)
 
-## Core concepts
+## Node Development
+* [Aggiungere un nodo](node-development/aggiungere-un-nodo.md)
+* [Registration checklist](node-development/registration-checklist.md)
+* [Advanced Feedback Pattern](node-development/advanced-feedback-pattern.md)
 
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
+## Modelli & Pricing
+* [Image models](modelli/image-models.md)
+* [Video models](modelli/video-models.md)
+* [Audio models](modelli/audio-models.md)
+* [3D models](modelli/3d-models.md)
 
-## Guides
+## Deployment
+* [Cloudflare Tunnel](deployment/cloudflare-tunnel.md)
+* [Vercel](deployment/vercel.md)
+* [Domini custom](deployment/domini-custom.md)
 
-* [Guides](guides/guides.md)
-* [Custom domains](guides/custom-domains.md)
-* [Automations](guides/automations.md)
-
-## Reference
-
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
+## Troubleshooting
+* [Bug noti](troubleshooting/bug-noti.md)
+* [Debug tips](troubleshooting/debug-tips.md)
